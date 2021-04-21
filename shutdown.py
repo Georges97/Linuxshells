@@ -6,3 +6,4 @@ def poweroff():
     os.system('sudo shutdown now')
 
 
+poweroff()
