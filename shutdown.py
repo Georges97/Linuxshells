@@ -3,7 +3,7 @@ import os
 
 
 def poweroff():
-    os.system('sudo shutdown now')
+    os.system('shutdown now')
 
 
 poweroff()
